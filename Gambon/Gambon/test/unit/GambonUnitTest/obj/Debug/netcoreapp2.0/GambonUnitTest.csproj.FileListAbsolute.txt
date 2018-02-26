@@ -1,0 +1,16 @@
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\bin\Debug\netcoreapp2.0\Gambon.Test.Unit.deps.json
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\bin\Debug\netcoreapp2.0\Gambon.Test.Unit.runtimeconfig.json
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\bin\Debug\netcoreapp2.0\Gambon.Test.Unit.runtimeconfig.dev.json
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\bin\Debug\netcoreapp2.0\Gambon.Test.Unit.dll
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\bin\Debug\netcoreapp2.0\Gambon.Test.Unit.pdb
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\bin\Debug\netcoreapp2.0\Gambon.dll
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\bin\Debug\netcoreapp2.0\Gambon.pdb
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\obj\Debug\netcoreapp2.0\GambonUnitTest.csprojResolveAssemblyReference.cache
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\obj\Debug\netcoreapp2.0\GambonUnitTest.csproj.CoreCompileInputs.cache
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\obj\Debug\netcoreapp2.0\GambonUnitTest.AssemblyInfoInputs.cache
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\obj\Debug\netcoreapp2.0\GambonUnitTest.AssemblyInfo.cs
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\obj\Debug\netcoreapp2.0\Gambon.Test.Unit.dll
+D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\test\unit\GambonUnitTest\obj\Debug\netcoreapp2.0\Gambon.Test.Unit.pdb
