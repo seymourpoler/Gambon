@@ -1,9 +1,0 @@
-D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\src\Gambon\bin\Debug\netcoreapp2.0\Gambon.deps.json
-D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\src\Gambon\bin\Debug\netcoreapp2.0\Gambon.dll
-D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\src\Gambon\bin\Debug\netcoreapp2.0\Gambon.pdb
-D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\src\Gambon\obj\Debug\netcoreapp2.0\Gambon.csprojResolveAssemblyReference.cache
-D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\src\Gambon\obj\Debug\netcoreapp2.0\Gambon.csproj.CoreCompileInputs.cache
-D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\src\Gambon\obj\Debug\netcoreapp2.0\Gambon.AssemblyInfoInputs.cache
-D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\src\Gambon\obj\Debug\netcoreapp2.0\Gambon.AssemblyInfo.cs
-D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\src\Gambon\obj\Debug\netcoreapp2.0\Gambon.dll
-D:\Documents\code\GitHub\PetProjects\PetProjects\Gambon\Gambon\src\Gambon\obj\Debug\netcoreapp2.0\Gambon.pdb
